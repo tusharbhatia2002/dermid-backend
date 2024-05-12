@@ -9,12 +9,11 @@ Pillow==10.0.1
 # Machine Learning
 tensorflow==2.13.0
 keras==2.13.1
-h5py==3.9.0
 numpy==1.24.3
 
 # Other dependencies
 gunicorn==22.0.0
-safetensors==0.4.3
+
 scikit-learn==1.4.2
-scipy==1.13.0
+
 
