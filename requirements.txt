@@ -8,7 +8,6 @@ Pillow==10.0.1
 
 # Machine Learning
 tensorflow==2.13.0
-keras==2.13.1
 numpy==1.24.3
 
 # Other dependencies
