@@ -7,8 +7,8 @@ opencv-python-headless==4.8.0.76
 Pillow==10.0.1
 
 # Machine Learning
-tensorflow==2.13.0; python_version >= '3.8' & python_version < '3.12'  # Existing compatible versions
-tensorflow==2.13.0; python_version == '3.11'  # New compatible version for Python 3.11
+tensorflow==2.13.0
+keras==2.13.1
 h5py==3.9.0
 numpy==1.24.3
 
